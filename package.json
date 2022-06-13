@@ -1,0 +1,22 @@
+{
+	
+	"name": "BATBOT",
+	
+	"version": "1.0.0",
+	
+	"description": "Beep boop... Batbot, systems engage...",
+	
+	"main": "bot.js",
+	
+	"author": "BATMAN",
+	
+	"dependencies": {
+	
+		
+	"discord.io": "http://github.com/woor/discord.io/tarball/gateway_v6",
+	
+		
+	"winston": "^3.7.2"
+	
+	}
+}
